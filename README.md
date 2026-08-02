@@ -1,21 +1,22 @@
-# crypto-alpha-hunter-claude-agent
-Free Claude AI Agent for institutional-grade cryptocurrency research and due diligence.
-crypto-alpha-hunter-claude-agent/
+# Crypto Alpha Hunter
 
-README.md
+A free Claude AI Agent for researching cryptocurrency projects.
 
-LICENSE
+## Features
 
-PROMPT.md
+- Tokenomics analysis
+- Scam detection
+- Community analysis
+- Bull vs Bear case
+- Risk score
+- Investment summary
 
-examples/
+## Author
 
-example1.md
+David Michael
 
-example2.md
+Follow me on X:
+https://x.com/flow79721155060
 
-images/
-
-cover.png
-
-CHANGELOG.md
+GitHub:
+https://github.com/Aku212
